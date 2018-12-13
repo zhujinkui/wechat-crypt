@@ -10,7 +10,7 @@
 namespace think;
 use think\ErrorCode;
 
-class WXBizDataCrypt
+class WxBizDataCrypt
 {
     private $appid;
 	private $session_key;
